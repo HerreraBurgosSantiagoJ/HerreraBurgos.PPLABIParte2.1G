@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1587170151 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\boolib.c
+
+1587070806 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\mesure.c
+	<string.h>
+
+1590181989 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\arraybikes.c
+	<stddef.h>
+	<string.h>
+	<stdio.h>
+	"utn.h"
+
+1590172937 c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\utn.h
+
+1590011632 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\arrayworks.c
+
+1589590935 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\steart.c
+	<stdio.h>
+	<stdlib.h>
+	"mesure.h"
+
+1589119321 c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\mesure.h
+
+1590179247 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\utn.c
+	<stdio.h>
+	"boolib.h"
+	"valib.h"
+
+1589679320 c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\boolib.h
+
+1590172934 c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\valib.h
+
+1590172937 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\valib.c
+	<string.h>
+	<ctype.h>
+
+1590181874 source:c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayBikes.h"
+	"utn.h"
+	"steart.h"
+	"valib.h"
+
+1590181306 c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\arraybikes.h
+
+1589118568 c:\users\santi\desktop\herreraburgospplab1\parcialbicicleta\steart.h
+
+1587170151 source:c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\boolib.c
+
+1587070806 source:c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\mesure.c
+	<string.h>
+
+1589590935 source:c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\steart.c
+	<stdio.h>
+	<stdlib.h>
+	"mesure.h"
+
+1589119321 c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\mesure.h
+
+1590179247 source:c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\utn.c
+	<stdio.h>
+	"boolib.h"
+	"valib.h"
+
+1589679320 c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\boolib.h
+
+1590172934 c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\valib.h
+
+1590172937 source:c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\valib.c
+	<string.h>
+	<ctype.h>
+
+1590192682 source:c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\arraybikes.c
+	<stddef.h>
+	<string.h>
+	<stdio.h>
+	"utn.h"
+
+1590172937 c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\utn.h
+
+1590192240 source:c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayBikes.h"
+	"utn.h"
+	"steart.h"
+	"valib.h"
+
+1590192278 c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\arraybikes.h
+
+1589118568 c:\users\santi\desktop\herreraburgos.pplabiparte2.1g\parcialbicicleta\steart.h
+
